@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-- 🌱 I’m currently learning **DSA**
+- Hi there! I’m Rutvik Vaghani, a Software Developer who loves turning ideas into impactful, scalable applications. I enjoy diving into full-stack development, cloud computing, and DevOps, working with tools like Java, Python, React.js, Spring Boot, and AWS. Whether it’s optimizing CI/CD pipelines, implementing Infrastructure as Code, or crafting user-friendly solutions, I’m all about solving complex problems and making technology work seamlessly. Take a look at my projects to see what I’ve been up to—I’d love to connect and share ideas!
 
 - 📫 How to reach me **vaghanirutvik777@gmail.com**
 
